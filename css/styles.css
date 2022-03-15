@@ -199,3 +199,12 @@ header .menu {
     "container container container";
 
 }
+
+.footer {
+    background-color: #ddd1d1;
+    padding: 1em 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
