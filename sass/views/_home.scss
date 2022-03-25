@@ -1,0 +1,25 @@
+.presentation {
+    gap: 2rem;
+    align-items: center;
+}
+
+.presentation__picture {
+    flex-basis: 50%;
+}
+
+.presentation__img {
+    width: 100%;
+}
+
+.presentation__description {
+    flex-basis: 50%;
+    color: var(--secondary);
+}
+
+.presentation__container p {
+    font-size: 3.2em;
+}
+
+.presentation__container h1 {
+    font-size: 6.8em;
+}
